@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Arshia Ruina"
   avatar           : "arshiaruina_profile.png"
-  bio              : "Postdoctoral researcher in ground-based gamma-ray astrophysics in the LST-1/CTA, MAGIC and SWGO projects."
+  bio              : "Postdoctoral researcher in astroparticle physics"
   location         : "Padova, Italy"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "arshia.ruina@pd.infn.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
