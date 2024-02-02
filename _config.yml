@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+#o Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arshia Ruina"
-  avatar           : "images/profile.png"
+  avatar           : "arshiaruina_profile.png"
   bio              : "Pursuing my first postdoctoral position in gamma-ray astrophysics with Michele Doro and other amazing colleagues in the LST-1/CTA, MAGIC and SWGO collaborations."
   location         : "Padova, Italy"
   employer         :
