@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2023-deep-learning-stk
 date: 2022-11-23
 venue: 'Astroparticle Physics'
-paperurl: 'https://doi.org/10.1016/j.astropartphys.2022.102795'
 ---
 
 The deep-learning method presented here was deployed in the cosmic-ray helium flux measurement (PhD thesis) as well as in the proton flux measurement (preliminary), as was also presented at the 38th ICRC.

@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2023-deep-learning-bgo
 date: 2022-11-23
 venue: 'Journal of Instrumentation'
-paperurl: 'https://iopscience.iop.org/article/10.1088/1748-0221/17/06/P06031'
 ---
 The deep-learning method presented here was deployed in the cosmic-ray helium flux measurement (PhD thesis) as well as in the proton flux measurement (preliminary), as was also presented at the 38th ICRC.
 

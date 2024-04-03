@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2021-dampe-helium
 date: 2023-08-10
 venue: 'Physical Review Letters'
-paperurl: 'https://doi.org/10.1103/PhysRevLett.126.201102'
 ---
 The first measurement of the cosmic-ray helium flux by DAMPE, using standard analysis methods (prior to the development and deployment of the deep-learning tools).
 
