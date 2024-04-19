@@ -5,8 +5,6 @@ type: "PhD thesis"
 permalink: /publication/2023-phd-thesis
 date: 2023-08-10
 venue: 'UniGe Archive-ouverte'
-link: 'https://doi.org/10.13097/archive-ouverte/unige:170702'
-citation: 'Ruina, A. Measuring the Cosmic Ray Helium Flux with the DAMPE Experiment. PhD thesis (2023). doi: 10.13097/archive-ouverte/unige:170702'
 ---
 
 PhD thesis carried out in the University of Geneva, Switzerland

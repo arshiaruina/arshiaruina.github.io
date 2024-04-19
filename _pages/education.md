@@ -9,16 +9,19 @@ redirect_from:
 
 ## Ph.D in Physics, University of Geneva, Switzerland (2023)
 
-* Thesis title: Measurement of the cosmic-ray helium flux and the application of deep-learning techniques for [improved particle-track reconstruction](https://doi.org/10.1016/j.astropartphys.2022.102795) and [energy measurement](https://iopscience.iop.org/article/10.1088/1748-0221/17/06/P06031) in DAMPE (available [here](https://archive-ouverte.unige.ch/unige:170702))
-* Focus areas: space-based detection of cosmic rays, physics of particle detectors, statistical data analysis
-* Associated collaborations: The [DAMPE](https://doi.org/10.1016/j.astropartphys.2017.08.005) experiment 
-* Proceedings of the talk from ICRC 2023 at Nagoya, Japan are available [here](https://doi.org/10.22323/1.444.0170) 
+* Thesis title: Measuring the Cosmic-Ray Helium Flux with the DAMPE Experiment (available [here](https://archive-ouverte.unige.ch/unige:170702))
+
+* Associated work:
+  * [Previous results](https://doi.org/10.1103/PhysRevLett.126.201102) on the helium flux measurement from DAMPE (2021)
+  * Application of deep-learning techniques for [improved particle-track reconstruction](https://doi.org/10.1016/j.astropartphys.2022.102795) and [energy measurement](https://iopscience.iop.org/article/10.1088/1748-0221/17/06/P06031)
+  * Presentation of updated results at the 38th International Cosmic-Ray Conference in Nagoya, Japan ([proceedings](https://pos.sissa.it/444/170))
+
+* Associated collaborations: The [DAMPE](https://doi.org/10.1016/j.astropartphys.2017.08.005) experiment
 
 ## M.Sc. in Physics, University of Bonn, Germany (2018)
 
-* Thesis title: Search for Charged-Lepton Flavour Violation in Top-Quark Decays in the μτ Channel using the ATLAS Detector 
-at the LHC (available [here](https://cds.cern.ch/record/2653340))
-* Focus areas: experimental particle physics, LHC detector physics, astroparticle physics, statistical methods, data analysis
+* Thesis title: Search for Charged-Lepton Flavour Violation in Top-Quark Decays in the μτ Channel using the ATLAS Detector at the LHC (available [here](https://cds.cern.ch/record/2653340))
+
 * Associated collaborations: The [ATLAS](https://atlas.cern) experiment; shorter projects involving the detection of solar axions with the [CAST](https://en.wikipedia.org/wiki/CERN_Axion_Solar_Telescope) experiment and hadronic interactions in the [COMPASS](https://wwwcompass.cern.ch/compass/) experiment
 
 

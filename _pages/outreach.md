@@ -7,7 +7,7 @@ author_profile: true
 
 ## Scientific Communication
 ------
-* O&C Working Group co-ordinator for the SWGO collaboration (2024)
+* O&C Working Group co-ordinator for the [SWGO collaboration](https://www.swgo.org/SWGOWiki/doku.php?id=collaboration) (2024)
 * Contributing author, along with M. Kole, to the Astrowatch section of the [CERN Courier](https://cerncourier.com) (2022-present)
 * Editor in the [TheScienceBreaker](https://thesciencebreaker.org) (2022-2023)
 
