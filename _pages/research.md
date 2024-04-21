@@ -7,12 +7,12 @@ author_profile: true
 
 I am currently working in ground-based gamma-ray astrophysics but come from a background of space-based cosmic-ray physics and high-energy particle physics. Read on to find out more about these topics and my interest in it!
 
-* <a href="#gamma_astro">Gamma-ray Astrophysics</a>
-  * <a href="#lst1_ctao">LST-1/CTAO</a>
-    * <a href="#egal_astro">Extra-Galactic Astrophysics</a>
-    * <a href="#cr_dc">CRs with DC Light</a>
-  * <a href="#magic_lst">MAGIC and LST1+MAGIC</a>
-  * <a href="#swgo">SWGO</a>
+* <p><a href="#gamma_astro">Gamma-ray Astrophysics</a></p>
+  * <p><a href="#lst1_ctao">LST-1/CTAO</a></p>
+    * <p><a href="#egal_astro">Extra-Galactic Astrophysics</a></p>
+    * <p><a href="#cr_dc">CRs with DC Light</a></p>
+  * <p><a href="#magic_lst">MAGIC and LST1+MAGIC</a></p>
+  * <p><a href="#swgo">SWGO</a></p>
 
 ## <p id="gamma_astro">Gamma-ray Astrophysics</p>
 <a href="#top">Top</a>
@@ -58,6 +58,8 @@ Further reading:
 
 ### <p id="swgo">SWGO</p>
 <a href="#top">Top</a>
+
+The Southern Widefield Gamma-ray Observatory (SWGO) is upcoming gamma-ray experiment in South America, SWGO, which is currently in the R&D stage. I am one of three coordinators in the Outreach and Communications (O&C) working group since January 2024 [27]. The O&C working group is focussing its efforts on generating awareness about the project especially in the countries where the candidate sites are located, with special attention to the concerns of the local communities. Besides, discussions are underway to create a larger social media presence for the collaboration. Given the nascent stage of the project, the current focus of such a presence would be to cover and highlight ongoing developments within the different scientific working groups. An update was recently shared at the 10th SWGO General Meeting, that was held in Mexico City, Mexico this month [28]. As far as scientific activities are concerned, a foreseen task with SWGO would be to make sensitivity studies of the array. In order to do this, the plan is to, first, make similar studies with the CTA-North array and then implement a similar framework for SWGO. I participated in the SWGO-Italy meeting in Naples, Italy held in November 2023 [29] and intend to participate in the next collaboration meeting which is expected to be held in Heidelberg, Germany in September this year.
 
 in IACTs like the LST-1 and [MAGIC](http://magic.mppmu.mpg.de), as well as WCDs of the upcoming [SWGO project](https://www.swgo.org/SWGOWiki/doku.php)
 
