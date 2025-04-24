@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-🌌 I work in astroparticle physics, a field that brings together ultra-large-scale phenomena of astrophysics and the super-tiny-scale phenomena of particle physics (but for most of it, I use just a computer!)
+Thanks for stopping by 😊
 
-👩‍💻 I'm pursuing my first postdoctoral position at [INFN Padova](https://www.pd.infn.it/it/) in the group of Michele Doro and Elisa Prandini
+I’m an astroparticle physicist who’s passionate about environmental issues, science communication and policy.
 
-📡 My current research focus is split into the study of:
-* VHE emissions from blazars and their time-variabilities with the [LST-1 telescope of the CTA project](https://www.cta-observatory.org/project/technology/lst/), and
-* cosmic rays using Direct Cherenkov light detection in IACTs like the LST-1 and [MAGIC](http://magic.mppmu.mpg.de), as well as WCDs of the upcoming [SWGO project](https://www.swgo.org/SWGOWiki/doku.php)
+In underground laboratories like at the [Large Hadron Collider in CERN](https://home.cern/science/accelerators/large-hadron-collider), scientists are smashing subatomic particles at mind-bogglingly high energies. But did you know that highly energetic particles and radiation are coming towards us from faraway space objects like galaxies and black holes ALL the time?
 
-🌏 Besides astroparticle physics, I'm passionate about science communication, space and climate policy, mitigation and conservation efforts. If you know of a project in any of these areas that could use a physicist like me, please get in touch!
+My current work involves using specialised ground-based telescopes to study some of these particles that reach us on Earth. In the past, I worked on space-based detectors and high-energy particle physics. 🛰💥
 
-*[VHE]: Very High Energy
-*[IACTs]: Imaging Air-shower Cherenkov Telescopes
-*[WCDs]: Water Cherenkov Detectors
+Find out more about my [research](/research/).
+
+Besides scientific research, I'm enthusiastic about crafting effective, meaningful communication, particularly when it comes to science. Bonus points if it’s related to climate change (policy, mitigation and adaption), biodiversity conservation, waste management or science policy. 🐋🌿☀️♻️
+
+Find out more about my [publications](/publications/) and [outreach activities](/outreach/).

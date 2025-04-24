@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arshia's Homepage"
 title_separator          : "-"
 name                     : &name "Arshia Ruina"
-description              : &description "Postdoctoral researcher at INFN Padova"
+description              : &description "Personal homepage of Arshia Ruina, scientific researcher in astroparticle physics and science communicator."
 url                      : https://arshiaruina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arshiaruina.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Arshia Ruina"
-  avatar           : "arshiaruina_profile.png"
-  bio              : "Postdoctoral researcher in astroparticle physics"
-  location         : "Padova, Italy"
-  employer         :
+  avatar           : "arshia_ruina.png"
+  bio              : "Astroparticle physicist and science communicator"
+  location         : 
+  employer         : "INFN Padova, Italy"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rv1gZB0AAAAJ"
   email            : "arshia.ruina@pd.infn.it"
