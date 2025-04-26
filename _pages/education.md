@@ -5,6 +5,7 @@ permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
+nav: true
 ---
 
 ## Ph.D in Physics, University of Geneva, Switzerland (2023)

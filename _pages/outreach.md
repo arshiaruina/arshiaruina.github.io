@@ -3,6 +3,7 @@ layout: archive
 title: "Outreach"
 permalink: /outreach/
 author_profile: true
+nav: true
 ---
 
 ## Scientific Communication
