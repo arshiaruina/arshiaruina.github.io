@@ -23,3 +23,5 @@ Besides physics research, I’m passionate about crafting effective, meaningful 
 
 Want to dive into my comms work?
 Explore more here: [Publications](/publications/), [Outreach Activities](/outreach/) 🐋 🌿 ☀️ ♻️
+
+[Back to top](#)

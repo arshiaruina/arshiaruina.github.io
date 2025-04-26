@@ -26,3 +26,4 @@ Prior to joining ATLAS, I’d had the opportunity to work in the [COMPASS](https
 
 After my master thesis, I worked for a few months with the [CAST](https://www.sciencedirect.com/science/ article/pii/S0168900298014429.) (CERN Axion Solar Telescope) collaboration, my first encounter with astroparticle physics. CAST is looking for axions (hypothetical particles that have become one of the [leading DM candidates](https://www.science.org/doi/full/10.1126/sciadv.abj3618) over the past few years) that originate in the Sun. My work was aimed at the computation of an upper limit on the axion-electron coupling constant. In order to achieve this, I made improvements on the solar axion flux calculations, implementing the model described [here](https://doi.org/10.1088%2F1475-7516%2F2013%2F12%2F008).
 
+[Back to top](#)
