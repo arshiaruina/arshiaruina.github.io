@@ -1,0 +1,45 @@
+
+.archive__inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+
+/* Ensures main content (text + grid) stays to the right of the sidebar */
+.research__content {
+  max-width: 100%;         /* Take full available space beside sidebar */
+  margin-left: 1;          /* Align to left */
+  padding: 0 1rem;         /* Optional spacing */
+}
+
+/* Left-align grid under the text */
+.grid__wrapper {
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* ← LEFT aligned */
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+
+.grid__item {
+  background: #fff;
+  width: 200px;
+  padding: 1rem;
+  border-radius: 0.1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.grid__item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.grid__item img {
+  border-radius: 0.5rem;
+  width: 100%; /* Make image fill card width */
+  height: auto;
+}
+

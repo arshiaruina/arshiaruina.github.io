@@ -1,22 +1,24 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Thanks for stopping by 😊
+And thanks for stopping by! 😊
 
-I’m an astroparticle physicist who’s passionate about environmental issues, science communication and policy.
+I’m an astroparticle physicist with a deep curiosity about the universe and a strong drive to tackle real-world challenges, especially when it comes to environmental issues, science communication, and policy.
 
-In underground laboratories like at the [Large Hadron Collider in CERN](https://home.cern/science/accelerators/large-hadron-collider), scientists are smashing subatomic particles at mind-bogglingly high energies. But did you know that highly energetic particles and radiation are coming towards us from faraway space objects like galaxies and black holes ALL the time?
+You’ve probably heard of the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at CERN, where scientists smash subatomic particles together at incredibly high energies. But did you know that highly energetic particles from distant galaxies, black holes, and other cosmic phenomena are constantly streaming towards us on Earth? And we’re catching them!
 
-My current work involves using specialised ground-based telescopes to study some of these particles that reach us on Earth. In the past, I worked on space-based detectors and high-energy particle physics. 🛰💥
+Right now, I study some of these cosmic "messengers" using specialised ground-based telescopes. I’ve also worked on space-based detectors and high-energy particle physics projects in the past.
 
-Find out more about my [research](/research/).
+Curious about the research I’m doing?
+Find out more [here](/research/)! 📡 🛰 💥
 
-Besides scientific research, I'm enthusiastic about crafting effective, meaningful communication, particularly when it comes to science. Bonus points if it’s related to climate change (policy, mitigation and adaption), biodiversity conservation, waste management or science policy. 🐋🌿☀️♻️
+Besides physics research, I’m passionate about crafting effective, meaningful communication, particularly when it comes to science, and even more so when it intersects with the climate crisis, biodiversity conservation, waste management, or science policy. Whether it’s writing, speaking, or collaborating, I love finding creative ways to connect science with society.
 
-Find out more about my [publications](/publications/) and [outreach activities](/outreach/).
+Want to dive into my comms work?
+Explore more here: [Publications](/publications/), [Outreach Activities](/outreach/) 🐋 🌿 ☀️ ♻️

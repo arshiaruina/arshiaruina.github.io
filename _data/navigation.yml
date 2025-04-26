@@ -5,6 +5,13 @@ main:
 
   - title: "Research"
     url: /research/
+    children:
+        - title: "Ground-Based Gamma-Ray Astrophysics"
+          url: /research/ground-based-gamma-ray-astrophysics/
+        - title: "Space-Based Cosmic-Ray Detection"
+          url: /research/space-based-cosmic-ray-detection/
+        - title: "High-Energy Particle Physics"
+          url: /research/high-energy-particle-physics/
 
   - title: "Publications"
     url: /publications/  
