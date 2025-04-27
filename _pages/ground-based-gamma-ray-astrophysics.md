@@ -11,7 +11,6 @@ author_profile: true
   </figcaption>
 </figure>
 
-
 One of the many cosmic "messengers" that stream throughout the Universe and also towards the Earth is **gamma radiation** (the most kind on the electromagnetic spectrum). However, when gamma rays enter the Earth's atmosphere, they don't reach the ground directly. Instead, they interact with air molecules and generate particle cascades that emit brief flashes of blue/UV light known as Cherenkov light. This faint glow appears when particles travel faster than light in a medium (yes, light travels about 0.03% slower in air than in vacuum!). 
 
 <figure>

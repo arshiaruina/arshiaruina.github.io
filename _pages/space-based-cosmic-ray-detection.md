@@ -5,15 +5,32 @@ permalink: /research/space-based-cosmic-ray-detection/
 author_profile: true
 ---
 
-(to do: add intro)
+When the cosmic "messengers" streaming in outer space hit the Earth, they go through the layers of the atmosphere, interact with air molecules and can no longer be observed in their "original" form. This is why we also have particle detectors high up in air and also in space!
 
-* [Experiment: DAMPE](#experiment-dampe)
-	- [Science: Particle Detection](#science-particle-detection)
-	- [Science: Cosmic-Ray Helium Flux](#science-cosmic-ray-helium-flux)
+<figure>
+  <img src="/assets/images/cr-detection-methods.png" alt="dampe-launch" />
+  <figcaption style="font-size: 14px; text-align: left;">The various detection methods for cosmic rays, direct and indirect, and the energy regimes they cover. It may seem from the plot on the right that the cosmic ray spectrum is a smoothly falling power-law distribution. But that's not necessarily true! Read on to find out more -- <a href="/research/space-based-cosmic-ray-detection/dampe" target="_blank">my work in DAMPE!</a>
+  </figcaption>
+</figure>
 
+Particle detectors higher up in the atmosphere and in space are specialised instruments designed to identify and measure cosmic particles, including electrons, protons and atomic nuclei like helium and above. They are also capable of measuring gamma rays. Typically mounted on balloons, satellites or space stations, they usually comprise (depending on the goals of the mission) components like:
 
-# Experiment: DAMPE
+* Silicon trackers: to trace the path of incoming particles
+* Calorimeters: to measure particle energy by absorbing them
+* Cherenkov detectors: to identify particle velocity
+* Time-of-Flight systems: to determine speed and mass
+* Anticoincidence shields: to filter out unwanted background noise
 
-During my PhD, I worked in the DAMPE (DArk Matter Particle Explorer) collaboration, which is a space-borne particle detector that was launched in December 2015 and has been taking data since. The detector system consists of a PSD (Plastic Scintillator Detector) for charge measurement, STK (Silicon-tungsten TracKer-convertor) for tracking incident particles,  BGO (bismuth germanium oxide) calorimeter for energy measurement, and NUD (neutron detector) that further aids in lepton-hadron separation. I analysed more than six years of cosmic-ray data to measure the helium flux in the energy range 70 GeV to 1 PeV. In [this work](https://archive-ouverte.unige.ch/unige:170702), I implemented the newly-developed deep learning techniques in the collaboration, a first, to [improve particle tracking and identification](https://www.sciencedirect.com/science/article/pii/S0927650522000962?via%3Dihub) and to [compensate for the energy lost in the calorimeter at high energies due to saturation of the electronics](https://iopscience.iop.org/article/10.1088/1748-0221/17/06/P06031). The study confirmed a previously observed hardening feature in the energy spectrum and also a subsequent softening feature that was [reported by DAMPE in 2021](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.201102). Also, a comparison with the proton flux tended to favour the charge-dependant scenario of cosmic-ray fluxes over a mass-dependant one.
+Examples of space-based particle detector missions include the older missions like [PAMELA](https://en.wikipedia.org/wiki/PAMELA_detector), and currently active ones like DAMPE, [AMS-02](https://en.wikipedia.org/wiki/Alpha_Magnetic_Spectrometer) (on the ISS), [CALET](https://en.wikipedia.org/wiki/Calorimetric_Electron_Telescope), [Fermi-LAT](https://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope), each focusing on different particle types and energy ranges to help uncover mysteries like dark matter, antimatter, and the sources of cosmic rays.
+
+During my PhD, I worked on measuring the flux of cosmic-ray helium nuclei with the: 
+
+* [DAMPE (DArk Matter Particle Explorer)](/research/space-based-cosmic-ray-detection/dampe)
+
+<figure>
+  <img src="https://dpnc.unige.ch/dampe/pics/Launch.jpg" alt="dampe-launch" />
+  <figcaption style="font-size: 14px; text-align: left;">Launch of the DAMPE mission from the Jiuquan Satellite Launch Centre in Decemeber 2015. Image taken from: <a href="http://dpnc.unige.ch/dampe/" target="_blank">DPNC, UniGe</a>
+  </figcaption>
+</figure>
 
 [Back to top](#)

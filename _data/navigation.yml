@@ -15,6 +15,9 @@ main:
             url: /research/ground-based-gamma-ray-astrophysics/swgo/
       - title: "Space-Based Cosmic-Ray Detection"
         url: /research/space-based-cosmic-ray-detection/
+        children:
+          - title: "DAMPE"
+            url: /research/ground-based-gamma-ray-astrophysics/dampe/
       - title: "High-Energy Particle Physics"
         url: /research/high-energy-particle-physics/
 
