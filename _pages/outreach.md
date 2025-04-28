@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Outreach"
+title: "Communication & Outreach"
 permalink: /outreach/
 author_profile: true
 nav: true
