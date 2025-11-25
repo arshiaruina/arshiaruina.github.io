@@ -1,0 +1,34 @@
+/* -------------------------
+   Sidebar Typography
+------------------------- */
+
+/* Sidebar container */
+.sidebar {
+  line-height: 1.2;       /* general spacing */
+  margin-bottom: 1rem;    /* space after sidebar sections */
+}
+
+/* Name (slightly bigger) */
+.sidebar .sidebar-name {
+  font-size: 0.85rem;     /* bigger than tagline */
+  margin-bottom: 0.1rem;  /* small spacing below name */
+}
+
+/* Tagline (slightly smaller) */
+.sidebar .sidebar-tagline {
+  font-size: 0.75rem;     /* smaller than name */
+  margin-bottom: 0.5rem;  /* spacing below tagline */
+}
+
+/* Sidebar list items */
+.sidebar li {
+  font-size: 0.65rem;     /* links smaller than tagline */
+  line-height: 1.2;
+  margin-bottom: 0.25rem; /* space between items */
+}
+
+/* Sidebar links */
+.sidebar a {
+  font-size: 0.65rem;
+  line-height: 1.2;
+}

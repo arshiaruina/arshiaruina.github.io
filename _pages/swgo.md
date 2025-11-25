@@ -19,4 +19,5 @@ As far as scientific activities are concerned, I will be making some sensitvity 
 
 (will be updated soon!)
 
-[Back to top](#)
+<a href="javascript:history.back()" class="back-button">← Back</a>
+[↑ Top](#)

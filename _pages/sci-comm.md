@@ -39,3 +39,6 @@ The work involved:
 * Independent and iterative editing of scientific articles in close liaison with the authors
 * Breaking down scientific jargon to make scientific literature accessible to the general public
 * Link to [portfolio](https://www.thesciencebreaker.org/core-team/arshia-ruina)
+
+<a href="javascript:history.back()" class="back-button">← Back</a>
+[↑ Top](#)

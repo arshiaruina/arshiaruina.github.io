@@ -19,3 +19,6 @@ author_profile: true
 * CERN Open Days are a special event taking place every 4-5 years, during which CERN allows the public to visit its facilities, including normally inaccessible areas like the underground experimental caverns
 * The 2019 edition saw 75k attendees (x2 higher than expected)
 * I supported visitor management efforts at the ALICE experimental facility entrance
+
+<a href="javascript:history.back()" class="back-button">← Back</a>
+[↑ Top](#)

@@ -33,4 +33,5 @@ During my PhD, I worked on measuring the flux of cosmic-ray helium nuclei with t
   </figcaption>
 </figure>
 
-[Back to top](#)
+<a href="javascript:history.back()" class="back-button">← Back</a>
+[↑ Top](#)

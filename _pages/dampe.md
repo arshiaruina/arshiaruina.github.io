@@ -39,4 +39,5 @@ to a 39% improvement in the measurement precision and 30% reduction in contamina
 
 * My presentation at the 38th International Cosmic Ray Conference in Nagoya, Japan (2023) [proceedings](https://pos.sissa.it/444/170)
 
-[Back to top](#)
+<a href="javascript:history.back()" class="back-button">← Back</a>
+[↑ Top](#)

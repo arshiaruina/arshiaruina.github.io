@@ -36,4 +36,5 @@ My work is associated with one of each of these detector types:
   </figcaption>
 </figure>
 
-[Back to top](#)
+<a href="javascript:history.back()" class="back-button">← Back</a>
+[↑ Top](#)
