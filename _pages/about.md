@@ -42,7 +42,7 @@ Nearly a decade of experience working across geographically distributed scientif
 
 My background is in experimental particle and astroparticle physics. Over the past decade, I have worked with international collaborations involving CERN, space-based detectors and ground-based gamma-ray observatories, alongside researchers across institutions and countries.
 
-But research has not my only focus.
+But research has not been my only focus.
 
 Alongside scientific work, I took on roles involving communication, outreach, coordination and community-building, from coordinating an international outreach team to launching a mentorship programme and writing about emerging research in astroparticle physics for **CERN Courier**.
 

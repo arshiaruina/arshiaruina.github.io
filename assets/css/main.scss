@@ -39,3 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@import "print";
+
+/* Custom colours */
+
+body {
+  color: #333333;
+}
+
+h1, h2 {
+    color: #004bc3;
+}
+
+h3, h4, h5, h6 {
+    color: #FB8500;
+}
+
+a {
+  color: #FB8500;
+}
+
+.author__name {
+    color: #004bc3;
+}
+
