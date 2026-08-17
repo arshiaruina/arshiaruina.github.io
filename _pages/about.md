@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,22 +8,50 @@ redirect_from:
 nav: true
 ---
 
-... and thanks for stopping by! 😊
+I help research teams and programmes create impact beyond academia by combining scientific expertise with **communication**, **stakeholder engagement**, **programme coordination** and **international collaboration**.
 
-I transform scientific complexity into clarity. My aim is to make science visible, accessible, and impactful in classrooms, public conversations and in decision-making spaces.
+With a PhD in physics and nearly a decade of experience in international research environments, I understand both the process of producing research and the challenge of connecting it with people beyond the research community.
 
-### Particles and Black Holes 💥 📡 🔭 🛰 🚀
+I’m interested in the space where science meets society, stakeholders and decision-makers where I can help scientific knowledge become more accessible, connected and useful.
 
-You’ve probably heard of the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) at CERN, a 27 km long underground tunnel where scientists smash subatomic particles together at incredibly high energies. But did you know that highly energetic particles from distant galaxies, black holes, and other cosmic phenomena are constantly streaming towards us on Earth? Scientists first discovered this the early 1900s and, since then, as technology and our understanding of physics have improved, these cosmic particles have revealed many mysteries of the universe and hold promise to teach us more!
+## What I bring 🚀
 
-Over the last decade, I studied these intriguing particles with experiments at the LHC at CERN, with detectors floating in space, and with telescopes on remote mountain-tops, and with teams spread out all over the globe. And it has been as incredible as it sounds! Find out more about my research experiences [here](/research/). 
+**Research communication & evidence translation**
 
-### Beyond Physics Research 🐋 🌿 ☀️ ♻️
+Scientific writing, editing, presentations and translating complex ideas for cross-disciplinary and public audiences.
 
-In the last few years, I’ve discovered a deep passion for shaping how science meets society and am re-orienting my career toward science communication and science policy, especially the vital space where the two intersect. It’s a space often held back by communication gaps, yet it’s exactly where informed, meaningful action can happen.
+**Scientific expertise**
 
-As the climate crisis and broader planetary emergencies intensify, I’m committed to applying my analytical background, storytelling skills, and systems-level perspective to help bridge that divide. Whether through writing, public engagement, or policy-focused collaboration, I aim to contribute to solutions that support a more resilient, sustainable future.
+PhD-level experience working with complex scientific topics and large international research collaborations.
 
-Explore my work in communications [here](/comms/) and my publications [here](/publications/) or reach out to collaborate!
+**Programme & project coordination**
+
+Experience coordinating distributed teams, outreach activities, mentorship programmes, events and collaborative initiatives.
+
+**Stakeholder & community engagement**
+
+Experience working with researchers, students, teachers, community representatives and international partners.
+
+**International collaboration**
+
+Nearly a decade of experience working across geographically distributed scientific communities and multicultural environments.
+
+[Explore my work in communications →](/comms/)
+
+## From Particles to People 💥 
+
+My background is in experimental particle and astroparticle physics. Over the past decade, I have worked with international collaborations involving CERN, space-based detectors and ground-based gamma-ray observatories, alongside researchers across institutions and countries.
+
+But research has not my only focus.
+
+Alongside scientific work, I took on roles involving communication, outreach, coordination and community-building, from coordinating an international outreach team to launching a mentorship programme and writing about emerging research in astroparticle physics for **CERN Courier**.
+
+These experiences showed me that for science cannot survive in isolation. It requires people and that, in turn, requires communication, coordination, relationships and meaningful engagement, not just within the scientific community but also (and often more importantly) with the people who can use, shape or benefit from that knowledge.
+
+[Explore my research background →](/research/) 
+
+[Explore my publications →](/publications/) 
+
+[Get in touch →](mailto:ruina.arshia@gmail.com)
 
 [Back to top](#)

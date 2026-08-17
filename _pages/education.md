@@ -8,6 +8,24 @@ redirect_from:
 nav: true
 ---
 
+## Science Communication and Policy
+
+**Geneva Science-Policy Interface (GSPI) Science Policy School, Geneva, Switzerland**
+(2025)
+
+* Training on the role of science policy in shaping environmental action, institutional processes, and cross-sector collaboration [more info](https://www.unige.ch/genevasummerschools/programme/courses/science-policy)
+
+**European Space Policy Institute (ESPI) School, Florence, Italy**
+(2025)
+
+* Training on emerging space-sector challenges, societal impacts, resilience, competitiveness, and multi-stakeholder policy [press release](https://www.eui.eu/news-hub?id=from-campus-to-space-eui-hosts-the-first-fsr-espi-space-policy-summer-school)
+
+**Science Communication Summer School, Geneva, Switzerland**
+(2023)
+
+* Training in science communication practices including public engagement, clarity in communication, and addressing misinformation
+
+
 ## Ph.D in Physics, University of Geneva, Switzerland (2023)
 
 * Thesis title: Measuring the Cosmic-Ray Helium Flux with the DAMPE Experiment (available [here](https://archive-ouverte.unige.ch/unige:170702))

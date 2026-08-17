@@ -5,38 +5,7 @@ permalink: /comms/sci-comm/
 author_profile: true
 ---
 
-### Outreach and Communications Co-ordinator
-[The SWGO Collaboration](https://www.swgo.org/SWGOWiki/doku.php?id=collaboration)
-(2024-2025)
-
-* Part of a 3-person team of coordinators for Outreach and Communication activities of the Southern Widefield Gamma-ray Observatory (SWGO) collaboration
-
-The work involved:
-* Coordinating internal and external communications across multinational teams
-* Improving SWGO's visibility externally
-* Ensuring consistent messaging and accessibility internally
-* Creating content for and maintaining SWGO's webpages
-
-
-### Claim to Fame!
-[FameLab Italy](https://famelab-italy.it)
-(2025)
-
-International scicomm competition, where participants translate science concepts of their choice into engaging stories for non-specialist audiences in only three minutes, and are judged on "content, clarity and charisma" ;)
-
-* Regional winner (among 17 participants, in Trieste) 
-Topic: "Perpetual Rain of Particles", watch my 3-min talk [here](https://www.youtube.com/watch?v=dXJUz4vQQFw)! ([Press release](https://www.immaginarioscientifico.it/en/famelab-trieste-2025-le-vincitrici/), 04 April 2025)
-
-* National runner-up (among 15 participants, in Perugia)
-Topic: "A Flash in Blue, a Cosmic Clue", watch the full event [here](https://www.youtube.com/watch?v=RHo2Sy09vn4) or just my 3-min talk [here](https://www.youtube.com/watch?v=HCNAk7Wi1ps) ([Press release](https://www.focus.it/scienza/scienze/famelab-2025-siamo-stati-al-primo-talent-per-divulgatori))
-
-<figure>
-  <img src="/assets/images/famelab_trieste_2025.jpeg" alt="famelab-trieste-2025" />
-  <figcaption style="font-size: 14px; text-align: left;">Did I just open an umbrella on stage?! Yep.
-  </figcaption>
-</figure>
-
-### Astrowatch Correspondent
+## Scientific Correspondent
 [CERN Courier](https://cerncourier.com)
 (2022-2025)
 
@@ -106,10 +75,9 @@ understanding
   </div>
 
 </div>
-
 <div style="clear: both;"></div>
 
-### Editor
+## Editor
 [TheScienceBreaker](https://thesciencebreaker.org) 
 (2022-2023)
 
@@ -163,8 +131,25 @@ The work involved:
   </div>
 
 </div>
-
 <div style="clear: both;"></div>
+
+## Claim to Fame!
+[FameLab Italy](https://famelab-italy.it)
+(2025)
+
+International scicomm competition, where participants translate science concepts of their choice into engaging stories for non-specialist audiences in only three minutes, and are judged on "content, clarity and charisma" ;)
+
+* Regional winner (among 17 participants, in Trieste) 
+Topic: "Perpetual Rain of Particles", watch my 3-min talk [here](https://www.youtube.com/watch?v=dXJUz4vQQFw)! ([Press release](https://www.immaginarioscientifico.it/en/famelab-trieste-2025-le-vincitrici/), 04 April 2025)
+
+* National runner-up (among 15 participants, in Perugia)
+Topic: "A Flash in Blue, a Cosmic Clue", watch the full event [here](https://www.youtube.com/watch?v=RHo2Sy09vn4) or just my 3-min talk [here](https://www.youtube.com/watch?v=HCNAk7Wi1ps) ([Press release](https://www.focus.it/scienza/scienze/famelab-2025-siamo-stati-al-primo-talent-per-divulgatori))
+
+<figure>
+  <img src="/assets/images/famelab_trieste_2025.jpeg" alt="famelab-trieste-2025" />
+  <figcaption style="font-size: 14px; text-align: left;">Did I just open an umbrella on stage?! Yep.
+  </figcaption>
+</figure>
 
 <a href="javascript:history.back()" class="back-button">← Back</a>
 [↑ Top](#)

@@ -26,8 +26,8 @@ nav: true
 
   <div class="grid__item">
     <a href="/comms/volunteering/">
-      <img src="/assets/images/volunteering.png" alt="volunteering" style="width:80%">
-      <h3 style="margin-top: 0.5rem;">Volunteering</h3>
+      <img src="/assets/images/volunteering.png" alt="Community Engagement & Outreach" style="width:80%">
+      <h3 style="margin-top: 0.5rem;">Community Engagement & Outreach</h3>
     </a>
     <!-- <p>Short description of Project 2.</p> -->
   </div>
