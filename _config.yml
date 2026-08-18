@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arshia's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Arshia Ruina"
-description              : &description "Personal homepage of Arshia Ruina, scientific researcher in astroparticle physics and science communicator."
+description              : &description "Personal homepage of Arshia Ruina"
 url                      : https://arshiaruina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arshiaruina.github.io"

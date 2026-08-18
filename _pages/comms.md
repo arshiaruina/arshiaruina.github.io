@@ -10,7 +10,7 @@ nav: true
 
   <div class="grid__item">
     <a href="/comms/sci-comm/">
-      <img src="/assets/images/comms.png" alt="sci-comm" style="width:80%">
+      <img src="/assets/images/comms.png" alt="sci-comm" style="width:85%">
       <h3 style="margin-top: 0.5rem;">Science Communication</h3>
     </a>
     <!-- <p>Short description of Project 1.</p> -->
@@ -26,7 +26,7 @@ nav: true
 
   <div class="grid__item">
     <a href="/comms/volunteering/">
-      <img src="/assets/images/volunteering.png" alt="Community Engagement & Outreach" style="width:80%">
+      <img src="/assets/images/volunteering.png" alt="Community Engagement & Outreach" style="width:75%">
       <h3 style="margin-top: 0.5rem;">Community Engagement & Outreach</h3>
     </a>
     <!-- <p>Short description of Project 2.</p> -->
